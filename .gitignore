@@ -1,3 +1,11 @@
+figures/
+eval/
+flower_test/
+models/
+res/
+venv/
+saved_chckpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
